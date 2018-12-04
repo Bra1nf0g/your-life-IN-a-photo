@@ -122,5 +122,34 @@
 			margin-bottom: 40px;
 
 		}
+		.community-section{
+			width: 1025px;
 
+		}
+		.community-section-content{
+			display: flex;
+
+		}
+		.community-content__desc{
+			text-align: center;
+			width: 190px;
+
+		}
+		.third-section__logo{
+			background-image: url("../images/Logo Image.jpg");
+			background-position: center; 
+			background-repeat: no-repeat;
+			background-size: auto;
+			
+		}
+		.community-section__name{
+			font-size: 18px;
+			font-weight: bold;
+			text-transform: uppercase;
+
+		}
+		.community-section__text{
+			font-size: 12px;
+
+		}
 
